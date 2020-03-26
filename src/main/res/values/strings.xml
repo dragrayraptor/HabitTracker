@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">HabitTracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="habitName">Название привычки</string>
+    <string name="habitDescription">Описание привычки</string>
+    <string name="goodHabit">Хорошая привычка</string>
+    <string name="badHabit">Вредная привычка</string>
+    <string name="repetitionsCount">Количество повторений</string>
+    <string name="periodicity">Периодичность</string>
+    <string name="habitSaveButton">Сохранить</string>
+    <string name="priority">Приоритет:</string>
+    <string name="mainActivityTitle">Ваши привычки:</string>
+    <string name="NoDescriptionText">Описание отсутствует</string>
+    <string name="MessageIfHabitsFieldsAreEmpty">Укажите все параметры кроме описания привычки</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Трекер привычек</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="menu_home">Домой</string>
+    <string name="menu_info">Информация о приложении</string>
+    <string name="info_text">Приложение для отслеживания привычек</string>
+</resources>
